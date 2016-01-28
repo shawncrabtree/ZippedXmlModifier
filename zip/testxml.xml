@@ -1,0 +1,11 @@
+<manifest identifier="MANIFEST-QTI-1" xmlns="http://www.imsglobal.org/xsd/apip/apipv1p0/imscp_v1p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/apip/apipv1p0/imscp_v1p1                                                          http://www.imsglobal.org/profile/apip/apipv1p0/apipv1p0_imscpv1p2_v1p0.xsd">
+  <Clients>
+    <User username="un">
+      <UserID>1</UserID>
+      <DOB />
+      <FirstName id="34">Steve</FirstName>
+      <LastName id="">Lawrence</LastName>
+      <Location>NYC</Location>
+    </User>
+  </Clients>
+</manifest>

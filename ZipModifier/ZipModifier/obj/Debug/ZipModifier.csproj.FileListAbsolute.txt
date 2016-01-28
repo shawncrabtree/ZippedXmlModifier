@@ -1,0 +1,8 @@
+C:\Users\crabtres\test\ZipModifier\ZipModifier\bin\Debug\ZipModifier.exe.config
+C:\Users\crabtres\test\ZipModifier\ZipModifier\obj\Debug\ZipModifier.csprojResolveAssemblyReference.cache
+C:\Users\crabtres\test\ZipModifier\ZipModifier\obj\Debug\Interop.CompressLib.dll
+C:\Users\crabtres\test\ZipModifier\ZipModifier\obj\Debug\ZipModifier.csproj.ResolveComReference.cache
+C:\Users\crabtres\test\ZipModifier\ZipModifier\bin\Debug\ZipModifier.exe
+C:\Users\crabtres\test\ZipModifier\ZipModifier\bin\Debug\ZipModifier.pdb
+C:\Users\crabtres\test\ZipModifier\ZipModifier\obj\Debug\ZipModifier.exe
+C:\Users\crabtres\test\ZipModifier\ZipModifier\obj\Debug\ZipModifier.pdb
